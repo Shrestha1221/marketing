@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+
+.navbar{
+    height: 50px;
+}
+
+.navbar-brand{
+    font-family: cursive;
+
+}
+
+.carousel-inner{
+    height: 500px;
+    margin-top: 70px;
+}
+
+.card{
+    margin: 10px 15px;
+
+}
